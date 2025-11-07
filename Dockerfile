@@ -9,7 +9,7 @@ ENV PYTHONUNBUFFERED=1 \
     STREAMLIT_BROWSER_GATHER_USAGE_STATS=false \
     DEBIAN_FRONTEND=noninteractive \
     STREAMLIT_LOG_LEVEL=debug \
-    GEMINI_API_KEY=your_api_key_here
+    GEMINI_API_KEY=AIzaSyC8DDik_58T7sLtsvxXJ5ecZAtXHkNn1Zk
 
 # Set working directory
 WORKDIR /app
